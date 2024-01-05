@@ -13,3 +13,5 @@ pip install -r requirements.txt
 While running the notebook in vscode when you are prompted to select a python kernel choose `venv`.
 
 If you are using jupyter notebook or windows that's technically known as a "skill issue", so you're on your own.
+
+This work was originally part of an improvized seminar given at the University of Padua.
