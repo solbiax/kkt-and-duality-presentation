@@ -10,6 +10,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-When prompted to select the python kernel choose `venv`.
+In vscode while running the notebook, when you are prompted to select a python kernel choose `venv`.
 
 If you are using jupyter notebook or windows that's technically known as a "skill issue", so you're on your own.
